@@ -1,1 +1,1 @@
-# Machine Learning Exercises using sklearn
+# Machine Learning Exercises
